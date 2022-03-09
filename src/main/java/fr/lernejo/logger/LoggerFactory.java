@@ -8,7 +8,7 @@ public class LoggerFactory {
         return new ContextualLogger(name, new CompositeLogger(
                 new ConsoleLogger(),
                 new FilteredLogger(
-                        new FileLogger(System.getProperty("user.home") + "/Desktop/file.txt"),
+                        new FileLogger("file.txt"),
                         s -> s.contains("Simulation")
                 )
         ));

@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d67318ff-c6d1-4feb-b720-f3665cdb6e2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/guessgame/ComputerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/guessgame/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/guessgame/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/guessgame/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/guessgame/Simulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/CompositeLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/ContextualLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/FilteredLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/LoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/lernejo/logger/LoggerFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
